@@ -1,0 +1,168 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<!------------Meta Tags Mobile---------------------------------------------->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no,orientation=portrait">
+	
+	<title>London Regional Bridge Tournament</title>
+	<!------------Styles---------------------------------------------->
+	<link rel="stylesheet" type="text/css" href="css/trismigestus.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600' rel='stylesheet' type='text/css'>
+	
+	<link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
+  
+    
+   
+    
+    <!--[if lt IE 9]> 
+			<style>
+				.rw-wrapper{ display: none; } 
+				.rw-sentence-IE{ display: block;  }
+			</style>
+	<![endif]-->
+</head>
+<body >
+
+	<div class="container topbottom">
+		<div class="row-fluid">
+
+			<div class="span5">
+				<img src="img/avatar.jpg" alt="LRBT Banner" class="header">
+
+				<div class="navigation">
+					<div>
+						<ul>
+							<li>
+								<img src="img/spade-icon.png">
+								<a href="index.html">Home</a>
+							</li>
+							<li>
+								<img src="img/spade-icon.png">
+								<a href="information.html">Information</a>
+							</li>
+
+							<li>
+								<img src="img/spade-icon.png">
+								<a href="scheduling.html">Scheduling</a>
+							</li>
+
+							<li>
+								<img src="img/portfolio-icon.png">
+								<a href="players.html">Players</a>
+							</li>
+							 <li> 
+							 	<img src="img/spade-icon.png"> 
+							 	<a href="novice.html">Novice</a> 
+							 </li>
+							 
+							  <li> 
+							 	<img src="img/spade-icon.png"> 
+							 	<a href="howto.html">How to:</a> 
+							 </li>
+
+							
+							<li>
+								<img src="img/contact-icon.png">
+								<a href="contact.html">Contacts</a>
+							</li>
+							
+													
+						</ul>
+					</div>
+						
+						                    
+                    
+				</div> 			
+			</div>
+
+			<div class="span7 mainContent">
+				<div class="h2">
+					<span class="name">Information</span>
+				
+						<div id = "Location" class="accordion-group" style="width:86%">
+						<h2 class="h2 ">Location:</h2>
+						<div class="wrap" style="height: 100%; width: 100%; overflow:auto">
+							<div class="row" style="width:50%; float:left">
+								<p style="margin:0.5em;width:13em">Accommodations at playing site:</p>
+								<ul class="circle" style="margin:0.5em;width:13em">
+									<li>The Festival Inn, Stratford, Ontario</li>
+									<li>Rate: $??? (Single or Double</li>
+									<li><a href="http://www.festivalinnstratford.com/" = target="_blank">website</a></li>
+									<li>Free parking at the hotel for all tournament participants.</li>
+									
+								</ul>
+							</div>
+							<div class="map img-border" style="margin-left:0.1em;margin-top:3em;">
+							<!---map---->
+								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1562.707559482815!2d-80.94145884147453!3d43.37099013684539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x23234e62c0f36f9e!2sFestival+Inn!5e1!3m2!1sen!2sca!4v1405974753351" width="400" height="250" frameborder="0" style="border:0"></iframe>
+							</div>
+							
+						</div>	
+					</div> <!-- End of Location div-->
+
+				</div>
+				<div class="desciption home">
+					<div class="row" style="margin:0.2em">
+					<section id="content">
+				
+					<h3>Stratified Games by MP or Team Average</h3>
+					<p>A: 2000+;    B: 750 – 2000;    C: 0 – 750</p>
+					<br>
+					<br>
+					<p><strong>Note: When an event has an upper MP limit, all players must have fewer than that number of master points.</strong></p>
+					<p><strong>Entry fees: $?? per session. Includes HST. $? additional for non or unpaid ACBL members.</strong></p>
+					<p><strong>Entry fee for Sunday Swiss teams: $?? per team (includes lunch). </strong></p>
+					</section>
+				
+					<div class="span6">
+                    	
+					<h2>About Stratford</h2>
+						
+						
+						<ul class="links">
+						  <li>Stratford, Ont, incorporated as a city in 1885, population 30 886 (2011c), 30 516 (2006c). The City of Stratford, the highest city in Ontario (elevation 364 m), is located 143 km west of Toronto and 52 km northeast of London. Settlement began in the 1830s after the townsite, beside the Avon River, had been selected and named by the CANADA CO as a focal point for peopling the million-acre Huron Tract. The ethnic mix of immigrants to the Stratford area was about 40% Irish, 30% German, 20% Scottish and 10% English. The blend has changed little, except for Dutch and German immigration since 1945.</li>
+						  <br>
+						  <li>Urban growth was slow until the railway-building boom of the 1850s. Stratford businessmen lobbied for the forming in 1853 of the County of Perth, with Stratford as the county seat, and the county at once voted bonuses to railway companies. Stratford became the intersection point of 3 railways, which successively became bankrupt and were merged with the CNR.</li>
+						  <br>
+						  <li>For 80 years railways were the principal employer in divisional offices and motive-power shops for repair of steam engines. When diesels replaced steam and Stratford ceased to be a divisional point in the 1950s, the city lost 2000 jobs, which have since been replaced by diversified industry. Nineteen manufacturing firms employ 25 or more people each; 21 employ 100 or more. Civic policy has kept industry on the perimeter and prevented encroachment on the 70 ha park in the city's middle, adjacent to the commercial core. World-class theatre is provided by the STRATFORD FESTIVAL, founded in 1953.</li>
+						</ul>
+
+							
+						</div>	
+					</div>
+				   	</div>
+				</div>
+			</div>			
+				
+			</div>
+
+		
+	
+	<script src="js/jquery-1.7.1.min.js" type="text/javascript"></script>
+	
+    
+
+    
+    
+    
+        <footer style="margin-left: 6.5em; top: 0px; height: 8.846em">
+        <span style="height: 2.307em"><strong>Copyright© LRBT 2014</strong>
+        <br>
+        </span>
+        <br/>
+        <!-- hitwebcounter Code START -->
+        <a href="http://www.hitwebcounter.com" target="_blank">
+        <img src="http://hitwebcounter.com/counter/counter.php?page=5650821&style=0005&nbdigits=5&type=page&initCount=100" title="dgGEREg" Alt="dgGEREg"   border="0" ></a>
+        <br/>
+        <!-- hitwebcounter.com -->
+        <a href="http://www.hitwebcounter.com/how-to/how-to-what-is-free-blog-counter.php" title="Web Counter" target="_blank" style="font-family: Geneva, Arial, Helvetica; font-size: 11px; color: #85948C; text-decoration: underline ;"><em>Web Counter</em>
+        </a> 
+        
+    </footer>
+	
+</body>
+ 
+
+</html>	

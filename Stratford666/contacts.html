@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Contacts</title>
+    <meta charset="utf-8">
+    <!------------------CSS Styles--------------------------------->
+    <link rel="stylesheet" type="text/css" media="screen" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
+    <link href='http://fonts.googleapis.com/css?family=Cabin+Sketch:400,700' rel='stylesheet' type='text/css'>
+    
+    <!------------------Java Scripts--------------------------------->
+    <script src="js/jquery-1.7.min.js"></script>
+    <script src="js/jquery.easing.1.3.js"></script>
+	<!--[if lt IE 8]>
+       <div style=' clear: both; text-align:center; position: relative; left: 0px; top: 0px; height: 91px;'>
+         <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+           <img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+        </a>
+      </div>
+    <![endif]-->
+    <!--[if lt IE 9]>
+   		<script type="text/javascript" src="js/html5.js"></script>
+    	<link rel="stylesheet" type="text/css" media="screen" href="css/ie.css">
+	<![endif]-->
+</head>
+<body>
+  <!--==============================header=================================-->
+  <div class="header">
+  	<div>
+        <div class="subpages-nav">
+        <!--==============================navigation=================================-->
+
+            <nav style="left: 0px; top: 0px">  
+                <ul class="menu">
+                    <li class="li-none"><a href="index.html">Home</a></li>
+                    <li><a href="information.html">Information</a></li>
+                    <li><a href="players.html">Players</a></li>
+                    <li class="li-left li-none"><a href="novice.html">Intermediate/Novice</a></li>
+                    <li><a href="scheduling.html">Schedule</a></li>
+                    <li class="current"><a href="contacts.html">Contacts</a></li>
+                </ul>
+                <h1><a href="http://www.acbl.org/"  target="_blank">
+				<img alt="WolfHead" height="119"  src="images/logo.png" width="134"></a></h1>
+            </nav>
+        </div>
+    </div>
+   
+<!--==============================content================================-->
+    <section id="content" style="height: 47.69em;">
+    	<div class="pad-1">
+            <div class="page6-row1">
+
+                <div class="col-15">
+                    <h2 class="h2 p2">Location:</h2>
+					<div class="map img-border">
+					  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2900.28956848992!2d-80.94157799999998!3d43.37096899999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882eac342fe11e4b%3A0x23234e62c0f36f9e!2sFestival+Inn!5e0!3m2!1sen!2sca!4v1406554064857" width="400" height="300" frameborder="0" style="border:0">
+					  </iframe>
+					</div>
+
+                </div>
+                 <div class="col-16">
+                  
+                    <h2 class="h2 p2">Contact form:</h2>
+					          <form id="form" method="post" >
+
+                      <fieldset>
+                        <label>
+                          <select>
+                            <option value="Chair">Tournament Chair</option>
+                            <option value="Partnerships">Partnerships</option>
+                            <option value="Webmaster">Webmaster</option>
+                          </select>           
+                        </label>
+
+                        <label><input type="text" value="Full Name" onBlur="if(this.value=='') this.value='Full Name'" onFocus="if(this.value =='Full Name' ) this.value=''"></label>
+                        <label><input type="text" value="Email" onBlur="if(this.value=='') this.value='Email'" onFocus="if(this.value =='Email' ) this.value=''"></label>
+                        <label><textarea onBlur="if(this.value==''){this.value='Message'}" onFocus="if(this.value=='Message'){this.value=''}">Message</textarea></label>
+                        <div class="btns"><a href="#" class="link-1">Clear</a><a href="#" class="link-1" onClick="document.getElementById('form').submit()">Send</a></div>
+                      </fieldset>  
+                    </form> 
+                </div>
+            </div>
+        </div>           
+    </section> 
+  </div>  
+<!--==============================footer=================================-->
+    <footer style="left: 0px; top: 1.692em; height: 11.1533em">
+        <span>
+        	<strong> Copyright© LRBT 2014 </strong><br>
+        </span>&nbsp;
+     </footer>		           
+</body>
+</html>

@@ -1,0 +1,146 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no,orientation=portrait">
+<title>Novice</title>
+
+<!------------Styles---------------------------------------------->
+<link rel="stylesheet" type="text/css" href="css/trismigestus.css">
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" media="screen" href="css/EsoMenu.css">
+<script src="js/myScript.js" type="text/javascript"></script>
+
+
+<!--[if lt IE 9]> 
+			<style>
+				.rw-wrapper{ display: none; } 
+				.rw-sentence-IE{ display: block;  }
+			</style>
+	<![endif]-->
+</head>
+<body>
+<div class="container topbottom">
+  <div class="row-fluid">
+    <div class="span5"> <img src="img/avatar.jpg" alt="ACBL Logo" class="header">
+      <div class="navigation">
+        <div>
+          <ul>
+            <li> <img src="img/spade-icon.png"> <a href="index.html">Home</a> </li>
+            <li> <img src="img/spade-icon.png"> <a href="information.html">Information</a></li>
+            <li> <img src="img/spade-icon.png"> <a href="scheduling.html">Scheduling</a> </li>
+            <li> <img src="img/portfolio-icon.png"> <a href="players.html">Players</a> </li>
+            <li> <img src="img/spade-icon.png"> <a href="novice.html">Novice</a> </li>
+            <li> <img src="img/spade-icon.png"> <a href="howto.html">How To:</a> </li>
+            <li> <img src="img/contact-icon.png"> <a href="contact.html">Contacts</a> </li>
+						
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="span7 mainContent"style="height:220em">
+      <div class="title"> <span class="name">Novice and Intermediate</span> </div>
+      <br>
+      
+      <!------Content---------------->
+   		 <img src="images/Sandra-R-2.jpeg" alt="Sandra Rimstedt" width="300" height="300"> 
+   		 	<caption><h4 style="margin-top:2em;margin-left:-0.22em; margin-right:0.5em;width: 270px">Sandra Rimstedt. Member of the Swedish National Women's Team</h4></caption>
+            	<div class="alignleft" style=" width: 15em; margin-top:-2em;">
+                  <br/>
+                  <br/>
+                  <p style="margin-left:-0.5em;margin-right:0.8em;padding-left:0.8em;padding-right:0.2em;">&quot;Bridge is a wonderful game that brings a fun and interesting group of people together. It doesn't matter if you are rich or poor, black or white, young or old, a new player or an experienced player, the nerdy boy or the popular girl - the bridge world feels like a big family who welcomes everyone. It is a very exciting and fun game and there is always more to learn. </p>
+                  <p style="margin-left:-0.5em;margin-right:0.8em;padding-left:0.8em;padding-right:0.8em;">I have gotten to know so many interesting people from all over the world, made good friends with players from every continent in the world and travelled to places I never thought I would be able to get to - all because of bridge. I am forever grateful to my parents who introduced me to this unique and wonderful game/community. Give it a try. You won't regret it&quot;. 
+                  </p>
+                  <br/>
+                   <div id="novice-days" class="alignright" style="margin-top:1em; margin-right: -15em">
+   					<div class="gallery-block" style="top: 5em;margin-left:-30em">
+        				<h3 style="height: 16px; width: 8em;margin-top:-1.2em">
+        				   ANNOUNCING NOVICE DAYS!         					
+        				</h3>
+        				
+        				<div  class="alignleft" style="width:15em;margin-top:6em;margin-left: -2em;padding-left:2em;padding-right:2em">
+							<br>
+							<br>
+							<p style="margin-left:-0.5em;padding-left:0.2em;padding-right:0.8em;margin-right:0.8em">Planning to attend the Regional London Bridge Tournament, but feeling insecure due to lack of skill or you simply want to learn more about the game and its benefits? 
+							   We are pleased to announce Novice Days! </p>
+							<br>
+							<p>The ACBL London Regional is being held this year at the Hilton Hotel at 300 King Street in London ON.  The tournament runs Tuesday, July 8 - Sunday July 13, 2014.</p><br/>
+							
+							<p style="margin-left:-0.5em;padding-left:0.2em;padding-right:0.8em;margin-right:0.8em">The great news is that there are four pairs sessions restricted to those players with 0 to 99 Master points.  These sessions will be held at 10 am and 3 pm on Friday, July 11th and again at 10 am and 3 pm on Saturday, July 12th.</p>
+							<br/>
+    						<p style="margin-left:-0.5em;padding-left:0.2em;padding-right:0.8em;margin-right:0.8em">The cost is $10 per session.  This is a $6 reduction from the normal fee. <b>You do not have to be a member of ACBL.</b>  You can still come and play in one, two, three or all four sessions. In addition to the sessions, there will be guest lectures and question and answer sessions geared to the novice player given by local experts. </p><br/>
+						
+
+	                        <p style="margin-left:-0.5em;margin-right:0.5em;padding-left:0.2em;margin-right:0.2em">For the the novices, we have four lectures before each of the Novice Days sessions, at 9:30 and 2:15.</p>
+					      <dl>
+                            <dt><strong>Friday at 9:30</strong></dt>
+                            <dd>1. Welcome Novices to the Tournament - Dwight Bender, tournament chair</dd>
+                            <dd>2. You are Here, Now What? – Hazel Hewitt, bridge teacher</dd>
+                            <dd>3. Terry’s Tips – Terry Wright, tournament novice chair</dd>
+                            <dt><strong>Friday at 2:15</strong></dt>
+                            <dd>The Proper Care and Feeding of Partner - Ross Driedger</dd>
+                            <dt><strong>Saturday at 9:30</strong></dt>
+                            <dd>Question and Answer - Tom Rajnovich</dd>
+                            <dt><strong>Saturday at 2:15</strong></dt>
+                            <dd>ACBL with Dwight Bender</dd>
+                        </dl><br/>
+                            
+                                
+							<p style="margin-left:-0.5em;padding-left:0.2em;margin-right:0.8em">For intermediate players, we are offering five Q&A sessions.  Players are urged to ask questions about any hands from the morning session and our guest speaker will answer them.  These sessions will run from Tuedsay to Saturday, at 1:00pm.</p>
+							<br/>
+                           <dl>
+                                <dt><strong>Tuesday</strong></dt>
+                                <dd>Ross Driedger</dd>
+                                <dt><strong>Wednesday</strong></dt>
+                                <dd>Marie Wiley</dd>
+                                <dt><strong>Thursday</strong></dt>
+                                <dd>Mike Biderman</dd>
+                                <dt><strong>Friday</strong></dt>
+                                <dd>Peter Tuttle</dd>
+                                <dt><strong>Saturday</strong></dt>
+                                <dd>Lee Daugharty</dd>
+                            </dl>
+                            <br/>							
+                            <p style="margin-left:-0.5em;padding-left:0.2em;margin-right:0.8em">Both Novice and Intermediate sessions are free to all players and are invited to attend.</p>
+							<br/>							
+							<h2 class="alignleft" style="margin-top:-0.8em;margin-left: -0.5em;margin-right:0.8em">Youth Bridge Resources</h2>
+							  
+	           			         <div class="accordion-group">
+			                  		<br/>
+			                        <span style="margin-left:2.2em"><a href="http://youth4bridge.org/"target="_blank"> Youth 4 Bridge </a></span>
+			                        <br/>
+			                        <span style="margin-left:2.2em"><a href="http://www.acbl.org/learn/introDuplicate.html"target="_blank"> Learn to play! </a></span>   
+			            		 </div>                                                                                          			               	
+        				</div>     				
+					</div> 
+				</div>			
+			</div>	
+		 </div>	
+     </div>
+  </div>
+
+
+
+
+
+   	<!-- Footer -->
+    
+     <footer style="margin-left: 6.5em; top: 0px; height: 8.846em">
+        <span style="height: 2.307em"><strong>Copyright© LRBT 2014</strong>
+        <br>
+        </span>
+        <br/>
+        <!-- hitwebcounter Code START -->
+        <a href="http://www.hitwebcounter.com" target="_blank">
+        <img src="http://hitwebcounter.com/counter/counter.php?page=5650821&style=0005&nbdigits=5&type=page&initCount=100" title="dgGEREg" Alt="dgGEREg"   border="0" ></a>
+        <br/>
+        <!-- hitwebcounter.com -->
+        <a href="http://www.hitwebcounter.com/how-to/how-to-what-is-free-blog-counter.php" title="Web Counter" target="_blank" style="font-family: Geneva, Arial, Helvetica; font-size: 11px; color: #85948C; text-decoration: underline ;"><em>Web Counter</em>
+        </a> 
+        
+    </footer>
+
+</body>
+</html>

@@ -1,0 +1,178 @@
+﻿/* JS disabled styles */
+.no-js nav li:hover ul 
+{ display:block; }
+ 
+/* base nav styles */
+nav li:hover ul 
+
+{ 
+	display:block; 
+	margin:0 auto 1.538em; 
+	border:1px solid #222; 
+	position:relative; 
+	background-color:#6a6a6a; 
+	font:1.23em Tahoma, Sans-serif; 
+}
+
+
+#levelDiv
+{	
+	position: relative;
+	/*
+	divide elements in px by 13 to get em conversion
+	width: 600px;
+	height: 200px;
+	*/
+	
+	width: 46.15384em;
+	height:15.34em;
+
+	float: left;
+	overflow: hidden;
+	
+}
+#levelImage
+{	
+	position: absolute;
+	width: 12.3em;
+	height: 15.38em;
+	margin-left: 0;
+	overflow: hidden;
+	z-index: 1;
+}
+#levelInfoDiv
+{
+	width: 80%; /* orig width 500px; */
+	padding-left: 20px;
+	padding-right: 20px;
+	height: 19.23em; /* orig height 600px */
+	padding-top: 20px;
+	float: left;
+}
+#circleText
+{
+	color:black;
+	padding-right:4.615em;
+	padding-left:1.538em;
+	width:23.076em;
+	margin-left:1.923em;
+	margin-right: 3.846em;/*50px*/
+	margin-bottom: 7.692em;
+	margin-top:2.307em;
+	position:relative;
+	z-index:6;
+}
+#circleTitle
+{
+	color:maroon;
+	margin-right: 3.846em;
+	margin-left: 19.230em;
+	margin-top:15.384em;
+	position:absolute;
+	z-index:9;
+}
+#tableBox
+{
+	height: 0.0769em;
+	width: 19.769em;
+	border-bottom-right-radius:0.5384em;
+	border-bottom-left-radius:0.5384em;
+	margin-left: 0.230em;
+	background-color: black;
+	position: absolute;	
+}
+#dataTable
+{	
+	width: 95%;
+	position: absolute;
+	color: silver;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	z-index: 7;
+}
+
+
+#topNav
+{
+	
+	height : 30%;
+	width: 80%;
+	background-image:url('../../Stratford/Mobile/images/bar.jpg'); 
+	margin-right: 9.230em;
+}
+
+#topNavB
+{
+	
+	height : 50%;
+	width: 100%;
+	background-color:#CC4D33; 
+	margin-right: 9.230em;
+}
+
+nav ul 
+{
+  padding:0; margin:0; 
+}
+nav li 
+{
+  position:relative;
+  float:left; 
+  list-style-type:none; 
+}
+nav ul:after 
+{ 
+  content:".";
+  display:block; 
+  height:0; 
+  clear:both; 
+  visibility:hidden;
+}
+nav li a 
+{ 
+  display:block; 
+  padding:10px 20px; 
+  color:#eee; 
+  text-decoration:none; 
+}
+nav li a:focus 
+{ 
+	outline:none; 
+	text-decoration:underline; 
+}
+nav li:first-child a 
+{ 
+ border-left :none; 
+}
+nav li.last a 
+{ 
+ border-right:none;
+}
+nav a span 
+{ 
+ display:block; 
+ float:right; 
+ margin-left:5px; 
+}
+nav ul ul 
+{ 
+ display:none; 
+ width:100%; 
+ position:absolute; 
+ left:0; 
+ background:#6a6a6a; 
+}
+nav ul ul li 
+{ 
+ float:none; 
+}
+nav ul ul a 
+{ 
+  padding:5px 10px;
+  border-left:none; 
+  border-right:none; 
+  font-size:14px; 
+}
+nav ul ul a:hover 
+{ 
+ background-color:#555; 
+}

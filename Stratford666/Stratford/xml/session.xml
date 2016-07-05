@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2007 sp2 (http://www.altova.com) by Ross Driedger (Earz Music Software) -->
+<schedule>
+	<day date="14/11/2014">
+		<event name="Afternoon Open Pairs" type="mp pairs">
+			<strat id="A" high="+" low="2000"/>
+			<strat id="B" high="2000" low="1000"/>
+			<strat id="C" high="1000" low="0"/>
+			<session id="1" time="2:00 pm"/>
+		</event>
+		<event name="Afternoon 299ers Pairs" type="mp pairs">
+			<strat id=" " high="300" low="0"/>
+			<session id="1" time="2:00 pm"/>
+		</event>
+		<event name="Evening Open Pairs" type="mp pairs">
+			<strat id="A" high="+" low="2000"/>
+			<strat id="B" high="2000" low="1000"/>
+			<strat id="C" high="1000" low="0"/>
+			<session id="1" time="7:00 pm"/>
+		</event>
+		<event name="Evening 299ers Pairs" type="mp pairs">
+			<strat id=" " high="300" low="0"/>
+			<session id="1" time="7:00 pm"/>
+		</event>
+	</day>
+	<day date="15/11/2014">
+		<event name="Open Pairs&lt;br/&gt;(Single Session Entries Welcome)" type="mp pairs">
+			<strat id="A" high="+" low="2000"/>
+			<strat id="B" high="2000" low="1000"/>
+			<strat id="C" high="1000" low="0"/>
+			<session id="1" time="10:00 am"/>
+		</event>
+		<event name="Open Pairs&lt;br/&gt;(Single Session Entries Welcome)" type="mp pairs">
+			<strat id="A" high="+" low="2000"/>
+			<strat id="B" high="2000" low="1000"/>
+			<strat id="C" high="1000" low="0"/>
+			<session id="2" time="3:00 pm"/>
+		</event>
+		<event name="Morning 299er Pairs" type="mp pairs">
+			<strat id=" " high="300" low="100"/>
+			<session id="1" time="10:00 am"/>
+		</event>
+		<event name="Afternoon 299er Pairs" type="mp pairs">
+			<strat id=" " high="100" low="0"/>
+			<session id="1" time="3:00 pm"/>
+		</event>
+	</day>
+	<day date="16/11/2014">
+		<event name="A/X Swiss Teams" type="swiss teams">
+			<strat id="A" high="+" low="2000"/>
+			<strat id="X" high="2000" low="0"/>
+			<session id="1" time="11:00 am"/>
+		</event>
+		<event name="A/X Swiss Teams" type="swiss teams">
+			<strat id="A" high="+" low="2000"/>
+			<strat id="X" high="2000" low="0"/>
+			<session id="2" time="3:00 pm"/>
+		</event>
+		<event name="B/C/D Swiss Teams" type="swiss teams">
+			<strat id="B" high="1500" low="1000"/>
+			<strat id="C" high="1000" low="500"/>
+			<strat id="D" high="500" low="0"/>
+			<session id="1" time="11:00 am"/>
+		</event>
+		<event name="B/C/D Swiss Teams" type="swiss teams">
+			<strat id="B" high="1500" low="1000"/>
+			<strat id="C" high="1000" low="500"/>
+			<strat id="D" high="500" low="0"/>
+			<session id="2" time="3:00 pm"/>
+		</event>
+		<event name=" 299er Swiss Teams" type="swiss teams">
+			<strat id=" " high="300" low="0"/>
+			<session id="1" time="11:00 am"/>
+		</event>
+		<event name=" 299er Swiss Teams" type="swiss teams">
+			<strat id=" " high="300" low="0"/>
+			<session id="2" time="3:00 pm"/>
+		</event>
+	</day>
+</schedule>
