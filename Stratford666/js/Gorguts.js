@@ -634,20 +634,8 @@ $(document).ready(function()
 		_cards2._spriteAnimation.x = _player_START_X + 252;
 		_cards2._spriteAnimation.y  = _helena_START_Y - 46;
 		
+	
 		/*
-		//Helenas Legs
-		_hLegs._spriteAnimation.init(spriteAtlas, 94, 94, 401, 6, 128); //Helena idle frame
-		_hLegs._spriteAnimation.x = _helena_START_X + 90 ;
-		_hLegs._spriteAnimation.y  = _helena_START_Y -20;
-
-
-		//Eli with Legs
-		_eLegs._spriteAnimation.init(spriteAtlas, 94, 94, 409, 10, 128); //Helena idle frame
-		_eLegs._spriteAnimation.x =  _toshi_START_X  + 177;
-		_eLegs._spriteAnimation.y  = _helena_START_Y - 90;
-
-*/
-		
 		//Players
 		//Toshi
 
@@ -676,7 +664,34 @@ $(document).ready(function()
 	//	_player2._spriteAnimation.init(spriteAtlas, 94, 94, 301, 390, 128); //
 		_player2._spriteAnimation.x = _toshi_START_X  + 280;
 		_player2._spriteAnimation.y  = _toshi_START_Y - 70;
+*/
+				_player._spriteAnimation.init(spriteAtlas, 94, 94, 0, 120, 128); //Toshi Left idle frame
+		//_player._spriteAnimation.init(spriteAtlas, 94, 94, 1, 22, 128); 
+		_player._spriteAnimation.x = _player_START_X + 210;
+		_player._spriteAnimation.y  = _player_START_Y - 92;
+	
+		
+		
+		
+		//player facing back
+		_chucky._spriteAnimation.init(spriteAtlas, 94, 94, 120, 90, 128); //Carlos idle frame
+		//_chucky._spriteAnimation.init(spriteAtlas, 94, 94, 120, 90, 128); //right idle frame
+		_chucky._spriteAnimation.x = _player_START_X + 189;
+		_chucky._spriteAnimation.y  = _player_START_Y - 40;
 
+		//spriteAtlas,w,h,startFrame,numFrames,128
+		//_helena._spriteAnimation.init(spriteAtlas, 94, 125, 210, 90, 128); //Helena idle frame
+		_helena._spriteAnimation.init(spriteAtlas, 94, 125, 210, 90, 128); //Helena idle frame
+		_helena._spriteAnimation.x = _helena_START_X + 94;
+		_helena._spriteAnimation.y  = _helena_START_Y - 70;
+
+	
+		//Eli
+		
+		_player2._spriteAnimation.init(spriteAtlas, 94, 125, 301, 90, 128); //Eli Base Frames
+	//	_player2._spriteAnimation.init(spriteAtlas, 94, 94, 301, 390, 128); //
+		_player2._spriteAnimation.x = _toshi_START_X  + 280;
+		_player2._spriteAnimation.y  = _toshi_START_Y - 70;
 
 					
 		//level.init(backgroundImage, 892, 240, 984, 320);
